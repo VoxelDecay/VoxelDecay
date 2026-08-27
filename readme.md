@@ -16,6 +16,8 @@
 
   <h3 style="border-bottom: none; pb-0;">This Github is used for sign-in and quick linking!</h1>
   <!-- <i> It is not too barebones, but for a better page, please visit my <a href="https://voxeldecay.carrd.co/">Carrd</a> <br> Last Update: 22/08/2026  </i>  -->
+
+  <i> Last Update: 22/08/2026  </i> 
 <br>
   
   ---
